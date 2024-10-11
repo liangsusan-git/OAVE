@@ -2,7 +2,7 @@
 
 <h2>Language-Guided Joint Audio-Visual Editing via One-Shot Adaptation</h2>
 
-<a href='https://liangsusan-git.github.io/project/avedit/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://arxiv.org/abs/2410.07463'><img src='https://img.shields.io/badge/ArXiv-2410.07463-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://liangsusan-git.github.io/project/avedit/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 
 _**[Susan Liang](https://liangsusan-git.github.io/), [Chao Huang](https://wikichao.github.io/), [Yapeng Tian](https://www.yapengtian.com/), [Anurag Kumar](https://anuragkr90.github.io/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/)**_
@@ -47,11 +47,11 @@ The audio-visual sample is used for model finetuning and evaluation.
 
 ### Citation
 ```bib
-@inproceedings{liang24oave,
- author = {Liang, Susan and Huang, Chao and Tian, Yapeng and Kumar, Anurag and Xu, Chenliang},
- booktitle = {Asian Conference on Computer Vision (ACCV)},
- title = {Language-Guided Joint Audio-Visual Editing via One-Shot Adaptation},
- year = {2024}
+@article{liang2024avedit,
+  title={Language-Guided Joint Audio-Visual Editing via One-Shot Adaptation},
+  author={Liang, Susan and Huang, Chao and Tian, Yapeng and Kumar, Anurag and Xu, Chenliang},
+  journal={arXiv preprint arXiv:2410.07463},
+  year={2024}
 }
 ```
 
